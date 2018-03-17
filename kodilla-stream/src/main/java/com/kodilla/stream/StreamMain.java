@@ -1,8 +1,6 @@
 package com.kodilla.stream;
 
 import com.kodilla.stream.beautifier.PoemBeautifier;
-import com.kodilla.stream.com.kodilla.stream.reference.FunctionalCalculator;
-import com.kodilla.stream.lambda.*;
 import com.sun.xml.internal.ws.util.StringUtils;
 
 public class StreamMain {
