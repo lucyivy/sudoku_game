@@ -1,4 +1,4 @@
-package com.kodilla.stream.com.kodilla.stream.reference;
+package com.kodilla.stream.reference;
 
 public class FunctionalCalculator {
     public static double multiplyAByB(double a, double b) {
