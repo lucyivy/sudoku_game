@@ -114,8 +114,7 @@ public class BookDirectoryTestSuite {
 
         // Then
         assertEquals(1, theListOfBooks1.size());
-
-
+        assertEquals(resultListOf1Books.get(0), theListOfBooks1.get(0));
     }
 
     @Test
@@ -132,6 +131,9 @@ public class BookDirectoryTestSuite {
 
         // Then
         assertEquals(5, theListOfBooks5.size());
+        for (int n = 0; n < resultListOf5Books.size(); n++) {
+            assertEquals(resultListOf5Books.get(n), theListOfBooks5.get(n));
+        }
 
     }
 }
