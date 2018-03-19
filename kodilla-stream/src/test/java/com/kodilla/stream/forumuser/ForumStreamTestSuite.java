@@ -1,13 +1,11 @@
 package com.kodilla.stream.forumuser;
 
-import com.kodilla.stream.StreamMain;
 import org.junit.Assert;
 import org.junit.Test;
 
 import java.time.LocalDate;
 import java.util.ArrayList;
 import java.util.List;
-import java.util.Map;
 
 import static junit.framework.TestCase.assertEquals;
 
