@@ -1,12 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6b852969-003f-4109-855c-2cf26d23fc0f" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kodilla-stream/src/main/java/com/kodilla/stream/portfolio/Board.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kodilla-stream/src/main/java/com/kodilla/stream/portfolio/Task.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kodilla-stream/src/main/java/com/kodilla/stream/portfolio/TaskList.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kodilla-stream/src/main/java/com/kodilla/stream/portfolio/User.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kodilla-stream/src/test/java/com/kodilla/stream/portfolio/BoardTestSuite.java" />
+    <list default="true" id="6b852969-003f-4109-855c-2cf26d23fc0f" name="Default" comment="7.5">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -1239,7 +1234,14 @@
       <option name="project" value="LOCAL" />
       <updated>1521581706600</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="7.5">
+      <created>1521927899358</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1521927899358</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="TestHistory">
