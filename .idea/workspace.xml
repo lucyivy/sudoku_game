@@ -2,19 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6b852969-003f-4109-855c-2cf26d23fc0f" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kodilla-good-patterns/src/main/java/challenges/EmailInformationService.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kodilla-good-patterns/src/main/java/challenges/GameOrdersRepository.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kodilla-good-patterns/src/main/java/challenges/GameProductService.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kodilla-good-patterns/src/main/java/challenges/InformationService.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kodilla-good-patterns/src/main/java/challenges/OrderRequest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kodilla-good-patterns/src/main/java/challenges/OrderRetriever.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kodilla-good-patterns/src/main/java/challenges/OrdersDto.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kodilla-good-patterns/src/main/java/challenges/OrdersRepository.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kodilla-good-patterns/src/main/java/challenges/ProductOrderApplication.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kodilla-good-patterns/src/main/java/challenges/ProductOrderProcessor.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kodilla-good-patterns/src/main/java/challenges/ProductOrderService.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kodilla-good-patterns/src/main/java/challenges/User.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/kodilla-good-patterns/src/main/java/challenges/GameProductService.java" afterPath="$PROJECT_DIR$/kodilla-good-patterns/src/main/java/challenges/GameProductService.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/kodilla-good-patterns/src/main/java/challenges/OrderRetriever.java" afterPath="$PROJECT_DIR$/kodilla-good-patterns/src/main/java/challenges/OrderRetriever.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/kodilla-testing/.gradle/" />
@@ -70,94 +60,8 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="ProductOrderProcessor.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/kodilla-good-patterns/src/main/java/challenges/ProductOrderProcessor.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="295">
-              <caret line="21" column="40" lean-forward="false" selection-start-line="21" selection-start-column="40" selection-end-line="21" selection-end-column="40" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="MovieStoreRunner.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/kodilla-good-patterns/src/main/java/challenges/MovieStoreRunner.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="145">
-              <caret line="5" column="41" lean-forward="true" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="44" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="EmailInformationService.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/kodilla-good-patterns/src/main/java/challenges/EmailInformationService.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="232">
-              <caret line="8" column="0" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
-              <folding>
-                <element signature="e#125#126#0" expanded="true" />
-                <element signature="e#202#203#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="GameProductService.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/kodilla-good-patterns/src/main/java/challenges/GameProductService.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="290">
-              <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
-              <folding>
-                <element signature="e#202#203#0" expanded="true" />
-                <element signature="e#229#230#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="OrderRetriever.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/kodilla-good-patterns/src/main/java/challenges/OrderRetriever.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="435">
-              <caret line="15" column="0" lean-forward="true" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="User.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/kodilla-good-patterns/src/main/java/challenges/User.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="580">
-              <caret line="26" column="18" lean-forward="false" selection-start-line="26" selection-start-column="18" selection-end-line="26" selection-end-column="18" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="OrdersRepository.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/kodilla-good-patterns/src/main/java/challenges/OrdersRepository.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="203">
-              <caret line="7" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ProductOrderService.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/kodilla-good-patterns/src/main/java/challenges/ProductOrderService.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="116">
-              <caret line="4" column="17" lean-forward="false" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ProductOrderApplication.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/kodilla-good-patterns/src/main/java/challenges/ProductOrderApplication.java">
+      <file leaf-file-name="OrdersDto.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/kodilla-good-patterns/src/main/java/challenges/OrdersDto.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="58">
               <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
@@ -166,11 +70,91 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="GameOrdersRepository.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/kodilla-good-patterns/src/main/java/challenges/GameOrdersRepository.java">
+      <file leaf-file-name="OrderRequest.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/kodilla-good-patterns/src/main/java/challenges/OrderRequest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="174">
+              <caret line="6" column="34" lean-forward="false" selection-start-line="6" selection-start-column="12" selection-end-line="6" selection-end-column="37" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MovieStoreRunner.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/kodilla-good-patterns/src/main/java/challenges/MovieStoreRunner.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="290">
-              <caret line="10" column="0" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+              <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MovieStore.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/kodilla-good-patterns/src/main/java/challenges/MovieStore.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="116">
+              <caret line="7" column="13" lean-forward="false" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="OrderRetriever.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/kodilla-good-patterns/src/main/java/challenges/OrderRetriever.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="116">
+              <caret line="4" column="13" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="InformationService.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/kodilla-good-patterns/src/main/java/challenges/InformationService.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="58">
+              <caret line="2" column="17" lean-forward="false" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="GameProductService.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/kodilla-good-patterns/src/main/java/challenges/GameProductService.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="116">
+              <caret line="4" column="13" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="EmailInformationService.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/kodilla-good-patterns/src/main/java/challenges/EmailInformationService.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="58">
+              <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="GameOrdersRepository.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/kodilla-good-patterns/src/main/java/challenges/GameOrdersRepository.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="116">
+              <caret line="4" column="13" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="OrdersRepository.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/kodilla-good-patterns/src/main/java/challenges/OrdersRepository.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="116">
+              <caret line="4" column="17" lean-forward="false" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
               <folding />
             </state>
           </provider>
@@ -1492,7 +1476,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/kodilla-stream/src/main/java/com/kodilla/stream/forum/ForumUSer.java" />
         <option value="$PROJECT_DIR$/kodilla-stream/src/test/java/com/kodilla/stream/forum/ForumUserTestSuite.java" />
         <option value="$PROJECT_DIR$/kodilla-stream/src/main/java/com/kodilla/stream/forum/ForumUser.java" />
         <option value="$PROJECT_DIR$/kodilla-stream/src/main/java/com/kodilla/stream/invoice/simple/SimpleProduct.java" />
@@ -1536,13 +1519,14 @@
         <option value="$PROJECT_DIR$/kodilla-good-patterns/src/main/java/challenges/User.java" />
         <option value="$PROJECT_DIR$/kodilla-good-patterns/src/main/java/challenges/EmailInformationService.java" />
         <option value="$PROJECT_DIR$/kodilla-good-patterns/src/main/java/challenges/OrdersRepository.java" />
-        <option value="$PROJECT_DIR$/kodilla-good-patterns/src/main/java/challenges/OrderRetriever.java" />
         <option value="$PROJECT_DIR$/kodilla-good-patterns/src/main/java/challenges/ProductOrderService.java" />
         <option value="$PROJECT_DIR$/kodilla-good-patterns/src/main/java/challenges/OrdersDto.java" />
         <option value="$PROJECT_DIR$/kodilla-good-patterns/src/main/java/challenges/IndividualProductService.java" />
         <option value="$PROJECT_DIR$/kodilla-good-patterns/src/main/java/challenges/GameOrdersRepository.java" />
         <option value="$PROJECT_DIR$/kodilla-good-patterns/src/main/java/challenges/ProductOrderApplication.java" />
         <option value="$PROJECT_DIR$/kodilla-good-patterns/src/main/java/challenges/ProductOrderProcessor.java" />
+        <option value="$PROJECT_DIR$/kodilla-good-patterns/src/main/java/challenges/GameProductService.java" />
+        <option value="$PROJECT_DIR$/kodilla-good-patterns/src/main/java/challenges/OrderRetriever.java" />
       </list>
     </option>
   </component>
@@ -1978,7 +1962,14 @@
       <option name="project" value="LOCAL" />
       <updated>1522006703867</updated>
     </task>
-    <option name="localTasksCounter" value="26" />
+    <task id="LOCAL-00026" summary="9.2 orders">
+      <created>1522157311268</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1522157311268</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -2025,7 +2016,7 @@
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32967034" sideWeight="0.5083333" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.41489363" sideWeight="0.49166667" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.41489363" sideWeight="0.49166667" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.27142859" sideWeight="0.48541668" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -2097,7 +2088,8 @@
     <MESSAGE value="8.3 exception" />
     <MESSAGE value="8.4 flights" />
     <MESSAGE value="9.1 stream" />
-    <option name="LAST_COMMIT_MESSAGE" value="9.1 stream" />
+    <MESSAGE value="9.2 orders" />
+    <option name="LAST_COMMIT_MESSAGE" value="9.2 orders" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -2357,36 +2349,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/kodilla-good-patterns/src/main/java/challenges/MovieStore.java">
+    <entry file="file://$PROJECT_DIR$/kodilla-good-patterns/src/main/java/challenges/User.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/kodilla-good-patterns/src/main/java/challenges/OrdersDto.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="435">
-          <caret line="19" column="0" lean-forward="true" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/kodilla-good-patterns/src/main/java/challenges/OrderRequest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="174">
-          <caret line="6" column="34" lean-forward="false" selection-start-line="6" selection-start-column="12" selection-end-line="6" selection-end-column="37" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/kodilla-good-patterns/src/main/java/challenges/InformationService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="145">
-          <caret line="5" column="0" lean-forward="true" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+        <state relative-caret-position="58">
+          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
           <folding />
         </state>
       </provider>
@@ -2399,53 +2365,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/kodilla-good-patterns/src/main/java/challenges/GameOrdersRepository.java">
+    <entry file="file://$PROJECT_DIR$/kodilla-good-patterns/src/main/java/challenges/ProductOrderProcessor.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="290">
-          <caret line="10" column="0" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/kodilla-good-patterns/src/main/java/challenges/EmailInformationService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="232">
-          <caret line="8" column="0" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
-          <folding>
-            <element signature="e#125#126#0" expanded="true" />
-            <element signature="e#202#203#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/kodilla-good-patterns/src/main/java/challenges/OrderRetriever.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="435">
-          <caret line="15" column="0" lean-forward="true" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/kodilla-good-patterns/src/main/java/challenges/User.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="580">
-          <caret line="26" column="18" lean-forward="false" selection-start-line="26" selection-start-column="18" selection-end-line="26" selection-end-column="18" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/kodilla-good-patterns/src/main/java/challenges/OrdersRepository.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="203">
-          <caret line="7" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/kodilla-good-patterns/src/main/java/challenges/MovieStoreRunner.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="145">
-          <caret line="5" column="41" lean-forward="true" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="44" />
+        <state relative-caret-position="261">
+          <caret line="9" column="23" lean-forward="false" selection-start-line="9" selection-start-column="23" selection-end-line="9" selection-end-column="23" />
           <folding />
         </state>
       </provider>
@@ -2458,21 +2381,82 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/kodilla-good-patterns/src/main/java/challenges/GameProductService.java">
+    <entry file="file://$PROJECT_DIR$/kodilla-good-patterns/src/main/java/challenges/OrdersRepository.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="290">
-          <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
-          <folding>
-            <element signature="e#202#203#0" expanded="true" />
-            <element signature="e#229#230#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="116">
+          <caret line="4" column="17" lean-forward="false" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/kodilla-good-patterns/src/main/java/challenges/ProductOrderProcessor.java">
+    <entry file="file://$PROJECT_DIR$/kodilla-good-patterns/src/main/java/challenges/OrdersDto.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="295">
-          <caret line="21" column="40" lean-forward="false" selection-start-line="21" selection-start-column="40" selection-end-line="21" selection-end-column="40" />
+        <state relative-caret-position="58">
+          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kodilla-good-patterns/src/main/java/challenges/OrderRetriever.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="116">
+          <caret line="4" column="13" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kodilla-good-patterns/src/main/java/challenges/OrderRequest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="174">
+          <caret line="6" column="34" lean-forward="false" selection-start-line="6" selection-start-column="12" selection-end-line="6" selection-end-column="37" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kodilla-good-patterns/src/main/java/challenges/MovieStoreRunner.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="290">
+          <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kodilla-good-patterns/src/main/java/challenges/MovieStore.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="116">
+          <caret line="7" column="13" lean-forward="false" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kodilla-good-patterns/src/main/java/challenges/InformationService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="58">
+          <caret line="2" column="17" lean-forward="false" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kodilla-good-patterns/src/main/java/challenges/GameProductService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="116">
+          <caret line="4" column="13" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kodilla-good-patterns/src/main/java/challenges/EmailInformationService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="58">
+          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kodilla-good-patterns/src/main/java/challenges/GameOrdersRepository.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="116">
+          <caret line="4" column="13" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
           <folding />
         </state>
       </provider>
