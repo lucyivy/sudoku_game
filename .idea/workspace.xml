@@ -2,53 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="19ce318f-bdda-4abd-8497-3c2ae1d79f63" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kodilla-stream-bat/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kodilla-stream-bat/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kodilla-stream-bat/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kodilla-stream-bat/kodilla-stream-bat.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kodilla-stream/.idea/gradle.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kodilla-stream/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kodilla-stream/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kodilla-stream2/.idea/gradle.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kodilla-stream2/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kodilla-stream2/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kodilla-testing2/src/main/java/com/kodilla/testing2/config/WebDriverConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kodilla-testing2/src/main/java/com/kodilla/testing2/google/GoogleTestingApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/cache.properties" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/description.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dictionaries/Lucyna_Bluszcz.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__junit_junit_4_12.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_hamcrest_hamcrest_core_1_3.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_mockito_mockito_all_1_10_19.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/kodilla-exception.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/kodilla-exception_main.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/kodilla-exception_test.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/kodilla-good-patterns.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/kodilla-good-patterns_main.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/kodilla-good-patterns_test.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/kodilla-rps.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/kodilla-rps_main.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/kodilla-rps_test.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/kodilla-stream.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/kodilla-stream_main.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/kodilla-stream_test.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/kodilla-testing.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/kodilla-testing_main.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/kodilla-testing_test.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/project-template.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/kodilla-course.iml" beforeDir="false" afterPath="$PROJECT_DIR$/kodilla-course.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/kodilla-course/com/company/FirstClass.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/kodilla-course/com/company/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kodilla-testing2/src/main/java/com/kodilla/testing2/google/GoogleTestingApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/kodilla-testing2/src/main/java/com/kodilla/testing2/google/GoogleTestingApp.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
@@ -127,8 +82,8 @@
       <file leaf-file-name="GoogleTestingApp.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/kodilla-testing2/src/main/java/com/kodilla/testing2/google/GoogleTestingApp.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="182">
-              <caret line="7" column="75" selection-start-line="7" selection-start-column="75" selection-end-line="7" selection-end-column="75" />
+            <state relative-caret-position="494">
+              <caret line="19" column="1" lean-forward="true" selection-start-line="19" selection-start-column="1" selection-end-line="19" selection-end-column="1" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -1403,7 +1358,7 @@
     </option>
     <option name="modificationStamps">
       <map>
-        <entry key="$PROJECT_DIR$" value="33525483055903" />
+        <entry key="$PROJECT_DIR$" value="33525484736636" />
         <entry key="$PROJECT_DIR$/.gradle" value="0" />
         <entry key="$PROJECT_DIR$/build.gradle" value="4098083690" />
         <entry key="$PROJECT_DIR$/kodilla-exception/.gradle" value="0" />
@@ -1824,12 +1779,20 @@
       <workItem from="1530473612971" duration="1715000" />
       <workItem from="1530602380806" duration="1986000" />
       <workItem from="1530793437363" duration="804000" />
-      <workItem from="1530912984265" duration="3886000" />
+      <workItem from="1530912984265" duration="5783000" />
     </task>
+    <task id="LOCAL-00001" summary="selenium">
+      <created>1530953376664</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1530953376664</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8391000" />
+    <option name="totallyTimeSpent" value="10288000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1845,24 +1808,24 @@
     <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.0886144" side_tool="true" visible="true" weight="0.32992035" />
+      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.08915145" side_tool="true" visible="true" weight="0.32992035" />
       <window_info anchor="right" id="Maven Projects" order="3" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info id="Capture Tool" order="4" />
       <window_info id="Designer" order="5" />
-      <window_info anchor="bottom" id="Build" order="7" sideWeight="0.49785176" weight="0.3287827" />
+      <window_info anchor="bottom" id="Build" order="7" sideWeight="0.49731472" weight="0.3287827" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="6" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.49946293" weight="0.32992035" />
-      <window_info anchor="bottom" id="Messages" order="7" />
+      <window_info anchor="bottom" id="Messages" order="7" sideWeight="0.49946293" weight="0.32992035" />
       <window_info anchor="right" id="Palette&#9;" order="3" />
       <window_info id="Image Layers" order="3" />
       <window_info anchor="right" id="Capture Analysis" order="3" />
       <window_info anchor="bottom" id="Version Control" order="7" sideWeight="0.49946293" weight="0.32992035" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.9113856" visible="true" weight="0.32992035" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.91084856" visible="true" weight="0.32992035" />
       <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.9065521" weight="0.14220706" />
       <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49867374" visible="true" weight="0.2878625" />
       <window_info anchor="bottom" id="Find" order="1" />
@@ -1881,6 +1844,10 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="selenium" />
+    <option name="LAST_COMMIT_MESSAGE" value="selenium" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/build.gradle">
@@ -2010,8 +1977,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/kodilla-testing2/src/main/java/com/kodilla/testing2/google/GoogleTestingApp.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="182">
-          <caret line="7" column="75" selection-start-line="7" selection-start-column="75" selection-end-line="7" selection-end-column="75" />
+        <state relative-caret-position="494">
+          <caret line="19" column="1" lean-forward="true" selection-start-line="19" selection-start-column="1" selection-end-line="19" selection-end-column="1" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
