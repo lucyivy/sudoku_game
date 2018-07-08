@@ -112,7 +112,7 @@ public class CrudAppTestSuite {
 
                 .forEach(theForm -> {
                     WebElement buttonDelete = theForm.findElement(By.xpath
-                            (".//div[@class=\"datatable__row-section-wrapper\"]/fieldset[1]/button[4]"));
+                            ("./button[4]"));
                     buttonDelete.click();
                 });
 
