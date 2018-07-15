@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="19ce318f-bdda-4abd-8497-3c2ae1d79f63" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/kodilla-testing2/src/test/java/com/kodilla/testing2/crudapp/CrudAppTestSuite.java" beforeDir="false" afterPath="$PROJECT_DIR$/kodilla-testing2/src/test/java/com/kodilla/testing2/crudapp/CrudAppTestSuite.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/settings.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
@@ -35,6 +37,12 @@
     <ignored path="$PROJECT_DIR$/kodilla-testing2/.gradle/" />
     <ignored path="$PROJECT_DIR$/kodilla-testing2/build/" />
     <ignored path="$PROJECT_DIR$/kodilla-testing2/out/" />
+    <ignored path="$PROJECT_DIR$/kodilla-sudoku/.gradle/" />
+    <ignored path="$PROJECT_DIR$/kodilla-sudoku/build/" />
+    <ignored path="$PROJECT_DIR$/kodilla-sudoku/out/" />
+    <ignored path="$PROJECT_DIR$/kodilla-sudoku-game/.gradle/" />
+    <ignored path="$PROJECT_DIR$/kodilla-sudoku-game/build/" />
+    <ignored path="$PROJECT_DIR$/kodilla-sudoku-game/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -52,71 +60,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="build.gradle" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/build.gradle">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="338">
-              <caret line="13" selection-start-line="13" selection-end-line="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="settings.gradle" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/settings.gradle">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="208">
-              <caret line="8" column="26" selection-start-line="8" selection-start-column="26" selection-end-line="8" selection-end-column="26" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="build.gradle" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/kodilla-testing2/build.gradle">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="364">
-              <caret line="14" selection-start-line="14" selection-end-line="14" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="GoogleTestingApp.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/kodilla-testing2/src/main/java/com/kodilla/testing2/google/GoogleTestingApp.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="156">
-              <caret line="9" selection-start-line="9" selection-end-line="9" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="CrudAppTestingApp.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/kodilla-testing2/src/main/java/com/kodilla/testing2/crudapp/CrudAppTestingApp.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="208">
-              <caret line="12" column="118" selection-start-line="12" selection-start-column="118" selection-end-line="12" selection-end-column="118" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="FacebookTestingApp.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/kodilla-testing2/src/main/java/com/kodilla/testing2/facebook/FacebookTestingApp.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="130">
-              <caret line="9" column="42" selection-start-line="9" selection-start-column="42" selection-end-line="9" selection-end-column="88" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="CrudAppTestSuite.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="CrudAppTestSuite.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/kodilla-testing2/src/test/java/com/kodilla/testing2/crudapp/CrudAppTestSuite.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="461">
-              <caret line="116" column="19" lean-forward="true" selection-start-line="116" selection-start-column="19" selection-end-line="116" selection-end-column="19" />
+            <state relative-caret-position="494">
+              <caret line="122" column="16" selection-start-line="122" selection-start-column="16" selection-end-line="122" selection-end-column="16" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -124,14 +72,65 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="WebDriverConfig.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/kodilla-testing2/src/main/java/com/kodilla/testing2/config/WebDriverConfig.java">
+      <file leaf-file-name="build.gradle" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/kodilla-sudoku-game/build.gradle">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="312">
-              <caret line="14" selection-start-line="14" selection-end-line="14" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="182">
+              <caret line="7" column="18" selection-start-line="7" selection-start-column="18" selection-end-line="7" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ElementValidator.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/kodilla-sudoku-game/src/main/java/ElementValidator.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2158">
+              <caret line="87" column="17" lean-forward="true" selection-start-line="87" selection-start-column="17" selection-end-line="87" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SudokuBoard.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/kodilla-sudoku-game/src/main/java/SudokuBoard.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-313">
+              <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SudokuElement.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/kodilla-sudoku-game/src/main/java/SudokuElement.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-781">
+              <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SudokuGame.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/kodilla-sudoku-game/src/main/java/SudokuGame.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1768">
+              <caret line="70" column="9" lean-forward="true" selection-start-line="70" selection-start-column="9" selection-end-line="70" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SudokuRow.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/kodilla-sudoku-game/src/main/java/SudokuRow.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="104">
+              <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SudokuRunner.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/kodilla-sudoku-game/src/main/java/SudokuRunner.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="363">
+              <caret line="47" column="1" selection-start-line="47" selection-start-column="1" selection-end-line="47" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -201,6 +200,14 @@
               <ExternalProjectPojo>
                 <option name="name" value=":kodilla-stream2" />
                 <option name="path" value="$PROJECT_DIR$/kodilla-stream2" />
+              </ExternalProjectPojo>
+              <ExternalProjectPojo>
+                <option name="name" value=":kodilla-sudoku" />
+                <option name="path" value="$PROJECT_DIR$/kodilla-sudoku" />
+              </ExternalProjectPojo>
+              <ExternalProjectPojo>
+                <option name="name" value=":kodilla-sudoku-game" />
+                <option name="path" value="$PROJECT_DIR$/kodilla-sudoku-game" />
               </ExternalProjectPojo>
               <ExternalProjectPojo>
                 <option name="name" value=":kodilla-testing" />
@@ -1125,6 +1132,193 @@
             </list>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/kodilla-sudoku">
+          <value>
+            <list>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the components produced by project ':kodilla-sudoku'. [incubating]" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/kodilla-sudoku" />
+                <option name="name" value="components" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the sub-projects of project ':kodilla-sudoku'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/kodilla-sudoku" />
+                <option name="name" value="projects" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the dependent components of components in project ':kodilla-sudoku'. [incubating]" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/kodilla-sudoku" />
+                <option name="name" value="dependentComponents" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays all buildscript dependencies declared in project ':kodilla-sudoku'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/kodilla-sudoku" />
+                <option name="name" value="buildEnvironment" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the insight into a specific dependency in project ':kodilla-sudoku'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/kodilla-sudoku" />
+                <option name="name" value="dependencyInsight" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays all dependencies declared in project ':kodilla-sudoku'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/kodilla-sudoku" />
+                <option name="name" value="dependencies" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays a help message." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/kodilla-sudoku" />
+                <option name="name" value="help" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the configuration model of project ':kodilla-sudoku'. [incubating]" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/kodilla-sudoku" />
+                <option name="name" value="model" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the properties of project ':kodilla-sudoku'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/kodilla-sudoku" />
+                <option name="name" value="properties" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the tasks runnable from project ':kodilla-sudoku'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/kodilla-sudoku" />
+                <option name="name" value="tasks" />
+              </ExternalTaskPojo>
+            </list>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/kodilla-sudoku-game">
+          <value>
+            <list>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the components produced by project ':kodilla-sudoku-game'. [incubating]" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/kodilla-sudoku-game" />
+                <option name="name" value="components" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles and tests this project and all projects that depend on it." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/kodilla-sudoku-game" />
+                <option name="name" value="buildDependents" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the sub-projects of project ':kodilla-sudoku-game'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/kodilla-sudoku-game" />
+                <option name="name" value="projects" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles main classes." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/kodilla-sudoku-game" />
+                <option name="name" value="classes" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the dependent components of components in project ':kodilla-sudoku-game'. [incubating]" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/kodilla-sudoku-game" />
+                <option name="name" value="dependentComponents" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays all buildscript dependencies declared in project ':kodilla-sudoku-game'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/kodilla-sudoku-game" />
+                <option name="name" value="buildEnvironment" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles test classes." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/kodilla-sudoku-game" />
+                <option name="name" value="testClasses" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Generates Javadoc API documentation for the main source code." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/kodilla-sudoku-game" />
+                <option name="name" value="javadoc" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles a jar archive containing the main classes." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/kodilla-sudoku-game" />
+                <option name="name" value="jar" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the configuration model of project ':kodilla-sudoku-game'. [incubating]" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/kodilla-sudoku-game" />
+                <option name="name" value="model" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Processes main resources." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/kodilla-sudoku-game" />
+                <option name="name" value="processResources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the tasks runnable from project ':kodilla-sudoku-game'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/kodilla-sudoku-game" />
+                <option name="name" value="tasks" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Runs the unit tests." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/kodilla-sudoku-game" />
+                <option name="name" value="test" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Compiles main Java source." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/kodilla-sudoku-game" />
+                <option name="name" value="compileJava" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the insight into a specific dependency in project ':kodilla-sudoku-game'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/kodilla-sudoku-game" />
+                <option name="name" value="dependencyInsight" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Runs all checks." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/kodilla-sudoku-game" />
+                <option name="name" value="check" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles the outputs of this project." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/kodilla-sudoku-game" />
+                <option name="name" value="assemble" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Deletes the build directory." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/kodilla-sudoku-game" />
+                <option name="name" value="clean" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Compiles test Java source." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/kodilla-sudoku-game" />
+                <option name="name" value="compileTestJava" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays all dependencies declared in project ':kodilla-sudoku-game'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/kodilla-sudoku-game" />
+                <option name="name" value="dependencies" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Processes test resources." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/kodilla-sudoku-game" />
+                <option name="name" value="processTestResources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays a help message." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/kodilla-sudoku-game" />
+                <option name="name" value="help" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles and tests this project." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/kodilla-sudoku-game" />
+                <option name="name" value="build" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles and tests this project and all projects it depends on." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/kodilla-sudoku-game" />
+                <option name="name" value="buildNeeded" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the properties of project ':kodilla-sudoku-game'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/kodilla-sudoku-game" />
+                <option name="name" value="properties" />
+              </ExternalTaskPojo>
+            </list>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/kodilla-testing">
           <value>
             <list>
@@ -1391,7 +1585,7 @@
     </option>
     <option name="modificationStamps">
       <map>
-        <entry key="$PROJECT_DIR$" value="33525484736636" />
+        <entry key="$PROJECT_DIR$" value="35058032903447" />
         <entry key="$PROJECT_DIR$/.gradle" value="0" />
         <entry key="$PROJECT_DIR$/build.gradle" value="4098083690" />
         <entry key="$PROJECT_DIR$/kodilla-exception/.gradle" value="0" />
@@ -1409,11 +1603,13 @@
         <entry key="$PROJECT_DIR$/kodilla-stream2/.gradle" value="0" />
         <entry key="$PROJECT_DIR$/kodilla-stream2/build.gradle" value="1846733064" />
         <entry key="$PROJECT_DIR$/kodilla-stream2/settings.gradle" value="3967071098" />
+        <entry key="$PROJECT_DIR$/kodilla-sudoku-game/build.gradle" value="400999662" />
+        <entry key="$PROJECT_DIR$/kodilla-sudoku/build.gradle" value="400999662" />
         <entry key="$PROJECT_DIR$/kodilla-testing/.gradle" value="0" />
         <entry key="$PROJECT_DIR$/kodilla-testing/build.gradle" value="182648411" />
         <entry key="$PROJECT_DIR$/kodilla-testing/settings.gradle" value="2985983785" />
         <entry key="$PROJECT_DIR$/kodilla-testing2/build.gradle" value="126360317" />
-        <entry key="$PROJECT_DIR$/settings.gradle" value="1906458831" />
+        <entry key="$PROJECT_DIR$/settings.gradle" value="2727818086" />
       </map>
     </option>
     <option name="projectBuildClasspath">
@@ -1483,6 +1679,20 @@
                     <value>
                       <ExternalModuleBuildClasspathPojo>
                         <option name="path" value="$PROJECT_DIR$/kodilla-stream2" />
+                      </ExternalModuleBuildClasspathPojo>
+                    </value>
+                  </entry>
+                  <entry key="$PROJECT_DIR$/kodilla-sudoku">
+                    <value>
+                      <ExternalModuleBuildClasspathPojo>
+                        <option name="path" value="$PROJECT_DIR$/kodilla-sudoku" />
+                      </ExternalModuleBuildClasspathPojo>
+                    </value>
+                  </entry>
+                  <entry key="$PROJECT_DIR$/kodilla-sudoku-game">
+                    <value>
+                      <ExternalModuleBuildClasspathPojo>
+                        <option name="path" value="$PROJECT_DIR$/kodilla-sudoku-game" />
                       </ExternalModuleBuildClasspathPojo>
                     </value>
                   </entry>
@@ -1612,6 +1822,18 @@
         <option value="$PROJECT_DIR$/kodilla-testing2/src/main/java/com/kodilla/testing2/facebook/CrudAppTestingApp.java" />
         <option value="$PROJECT_DIR$/kodilla-testing2/src/main/java/com/kodilla/testing2/facebook/FacebookTestingApp.java" />
         <option value="$PROJECT_DIR$/kodilla-testing2/src/test/java/com/kodilla/testing2/crudapp/CrudAppTestSuite.java" />
+        <option value="$PROJECT_DIR$/kodilla-testing2/src/main/java/com/kodilla/testing2/itAccess/exempt.java" />
+        <option value="$PROJECT_DIR$/kodilla-sudoku/src/main/java/Prototype.java" />
+        <option value="$PROJECT_DIR$/kodilla-sudoku/src/main/java/SudokuElement.java" />
+        <option value="$PROJECT_DIR$/kodilla-sudoku/src/main/java/SudokuRow.java" />
+        <option value="$PROJECT_DIR$/kodilla-sudoku/src/main/java/SudokuBoard.java" />
+        <option value="$PROJECT_DIR$/kodilla-sudoku/src/main/java/NewBoard.java" />
+        <option value="$PROJECT_DIR$/kodilla-sudoku/src/main/java/SudokuSolver.java" />
+        <option value="$PROJECT_DIR$/kodilla-sudoku/src/main/java/SudokuBoardPrinter.java" />
+        <option value="$PROJECT_DIR$/kodilla-sudoku/src/main/java/SudokuApp.java" />
+        <option value="$PROJECT_DIR$/kodilla-sudoku-game/src/main/java/ElementValidator.java" />
+        <option value="$PROJECT_DIR$/kodilla-sudoku-game/src/main/java/SudokuRunner.java" />
+        <option value="$PROJECT_DIR$/kodilla-sudoku-game/src/main/java/SudokuGame.java" />
       </list>
     </option>
   </component>
@@ -1641,8 +1863,9 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="AndroidView" />
       <pane id="PackagesPane" />
+      <pane id="AndroidView" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -1653,7 +1876,157 @@
             <path>
               <item name="kodilla-course" type="b2602c69:ProjectViewProjectNode" />
               <item name="kodilla-course" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="kodilla-exception" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="kodilla-course" type="b2602c69:ProjectViewProjectNode" />
+              <item name="kodilla-course" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="kodilla-exception" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="kodilla-course" type="b2602c69:ProjectViewProjectNode" />
+              <item name="kodilla-course" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="kodilla-exception" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="kodilla-course" type="b2602c69:ProjectViewProjectNode" />
+              <item name="kodilla-course" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="kodilla-good-patterns" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="kodilla-course" type="b2602c69:ProjectViewProjectNode" />
+              <item name="kodilla-course" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="kodilla-good-patterns" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="kodilla-course" type="b2602c69:ProjectViewProjectNode" />
+              <item name="kodilla-course" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="kodilla-good-patterns" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="kodilla-course" type="b2602c69:ProjectViewProjectNode" />
+              <item name="kodilla-course" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="kodilla-rps" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="kodilla-course" type="b2602c69:ProjectViewProjectNode" />
+              <item name="kodilla-course" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="kodilla-rps" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="kodilla-course" type="b2602c69:ProjectViewProjectNode" />
+              <item name="kodilla-course" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="kodilla-rps" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="kodilla-course" type="b2602c69:ProjectViewProjectNode" />
+              <item name="kodilla-course" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="kodilla-spring-intro" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="kodilla-course" type="b2602c69:ProjectViewProjectNode" />
+              <item name="kodilla-course" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="kodilla-stream" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="kodilla-course" type="b2602c69:ProjectViewProjectNode" />
+              <item name="kodilla-course" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="kodilla-stream" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="kodilla-course" type="b2602c69:ProjectViewProjectNode" />
+              <item name="kodilla-course" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="kodilla-stream" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="kodilla-course" type="b2602c69:ProjectViewProjectNode" />
+              <item name="kodilla-course" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="kodilla-stream2" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="kodilla-course" type="b2602c69:ProjectViewProjectNode" />
+              <item name="kodilla-course" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="kodilla-stream2" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="kodilla-course" type="b2602c69:ProjectViewProjectNode" />
+              <item name="kodilla-course" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="kodilla-stream2" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="kodilla-course" type="b2602c69:ProjectViewProjectNode" />
+              <item name="kodilla-course" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="kodilla-stream-bat" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="kodilla-course" type="b2602c69:ProjectViewProjectNode" />
+              <item name="kodilla-course" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="kodilla-sudoku-game" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="kodilla-course" type="b2602c69:ProjectViewProjectNode" />
+              <item name="kodilla-course" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="kodilla-sudoku-game" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="kodilla-course" type="b2602c69:ProjectViewProjectNode" />
+              <item name="kodilla-course" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="kodilla-sudoku-game" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="kodilla-course" type="b2602c69:ProjectViewProjectNode" />
+              <item name="kodilla-course" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="kodilla-sudoku-game" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="kodilla-course" type="b2602c69:ProjectViewProjectNode" />
+              <item name="kodilla-course" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="kodilla-testing" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="kodilla-course" type="b2602c69:ProjectViewProjectNode" />
+              <item name="kodilla-course" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="kodilla-testing" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="kodilla-course" type="b2602c69:ProjectViewProjectNode" />
+              <item name="kodilla-course" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="kodilla-testing" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="kodilla-course" type="b2602c69:ProjectViewProjectNode" />
+              <item name="kodilla-course" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="kodilla-testing2" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="kodilla-course" type="b2602c69:ProjectViewProjectNode" />
+              <item name="kodilla-course" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="kodilla-testing2" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="out" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="kodilla-course" type="b2602c69:ProjectViewProjectNode" />
@@ -1764,15 +2137,15 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Sudoku/kodilla-sudoku" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="configurable.group.build" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
   </component>
   <component name="RecentsManager">
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
@@ -1797,18 +2170,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.CrudAppTestSuite">
-    <configuration name="CrudAppTestingApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.kodilla.testing2.crudapp.CrudAppTestingApp" />
-      <module name="kodilla-testing2_main" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.kodilla.testing2.crudapp.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
+  <component name="RunManager" selected="Application.SudokuRunner">
     <configuration name="FacebookTestingApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.kodilla.testing2.facebook.FacebookTestingApp" />
       <module name="kodilla-testing2_main" />
@@ -1820,16 +2182,26 @@
         </pattern>
       </extension>
     </configuration>
-    <configuration name="GoogleTestingApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.kodilla.testing2.google.GoogleTestingApp" />
-      <module name="kodilla-testing2_main" />
+    <configuration name="SudokuApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SudokuApp" />
+      <module name="kodilla-sudoku_main" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration name="SudokuGame" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.kodilla.sudoku.SudokuGame" />
+      <module name="kodilla-sudoku-game_main" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.kodilla.testing2.google.*" />
+          <option name="PATTERN" value="com.kodilla.sudoku.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+    </configuration>
+    <configuration name="SudokuRunner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SudokuRunner" />
+      <module name="kodilla-sudoku-game_main" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -1896,17 +2268,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="Application.GoogleTestingApp" />
-      <item itemvalue="Application.CrudAppTestingApp" />
       <item itemvalue="Application.FacebookTestingApp" />
       <item itemvalue="JUnit.CrudAppTestSuite" />
+      <item itemvalue="Application.SudokuApp" />
+      <item itemvalue="Application.SudokuGame" />
+      <item itemvalue="Application.SudokuRunner" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SudokuRunner" />
+        <item itemvalue="Application.SudokuGame" />
+        <item itemvalue="Application.SudokuApp" />
         <item itemvalue="JUnit.CrudAppTestSuite" />
         <item itemvalue="Application.FacebookTestingApp" />
-        <item itemvalue="Application.CrudAppTestingApp" />
-        <item itemvalue="Application.GoogleTestingApp" />
       </list>
     </recent_temporary>
   </component>
@@ -1925,7 +2299,11 @@
       <workItem from="1530793437363" duration="804000" />
       <workItem from="1530912984265" duration="6574000" />
       <workItem from="1530962373712" duration="26246000" />
-      <workItem from="1531039004770" duration="2911000" />
+      <workItem from="1531039004770" duration="4345000" />
+      <workItem from="1531315524261" duration="829000" />
+      <workItem from="1531505307532" duration="78000" />
+      <workItem from="1531581973933" duration="2181000" />
+      <workItem from="1531584618952" duration="2240000" />
     </task>
     <task id="LOCAL-00001" summary="selenium">
       <created>1530953376664</created>
@@ -1955,13 +2333,24 @@
       <option name="project" value="LOCAL" />
       <updated>1531005593850</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="selenium_CRUD_v2">
+      <created>1531042652099</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1531042652102</updated>
+    </task>
+    <task id="LOCAL-00006" summary="selenium_CRUD_v3">
+      <created>1531042790508</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1531042790508</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="CrudAppTestSuite - 2018.07.08 at 01h 06m 46s.xml">
-      <configuration name="CrudAppTestSuite" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="CrudAppTestSuite - 2018.07.08 at 01h 15m 29s.xml">
       <configuration name="CrudAppTestSuite" configurationId="JUnit" />
     </history-entry>
@@ -1989,9 +2378,12 @@
     <history-entry file="CrudAppTestSuite - 2018.07.08 at 11h 13m 01s.xml">
       <configuration name="CrudAppTestSuite" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="CrudAppTestSuite - 2018.07.08 at 12h 22m 51s.xml">
+      <configuration name="CrudAppTestSuite" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="40236000" />
+    <option name="totallyTimeSpent" value="46998000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -2012,26 +2404,26 @@
       <window_info anchor="right" id="Palette&#9;" order="3" />
       <window_info id="Image Layers" order="3" />
       <window_info anchor="right" id="Capture Analysis" order="3" />
-      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.17776585" side_tool="true" visible="true" weight="0.32992035" />
+      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.17883995" side_tool="true" visible="true" weight="0.43230945" />
       <window_info anchor="right" id="Maven Projects" order="3" weight="0.32975295" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.82116" visible="true" weight="0.43230945" />
       <window_info anchor="bottom" id="Version Control" order="7" sideWeight="0.49946293" weight="0.32992035" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.82223415" visible="true" weight="0.32992035" />
-      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.9065521" weight="0.14220706" />
+      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.9049409" weight="0.3128555" />
       <window_info id="Capture Tool" order="4" />
       <window_info id="Designer" order="5" />
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49867374" visible="true" weight="0.2964554" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49867374" visible="true" weight="0.31364125" />
+      <window_info anchor="bottom" id="Build" order="7" sideWeight="0.49624062" weight="0.3287827" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info anchor="right" id="Gradle" order="3" />
       <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="6" />
       <window_info anchor="right" id="Theme Preview" order="3" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.91299677" weight="0.3993174" />
       <window_info id="Favorites" order="1" sideWeight="0.50132626" side_tool="true" weight="0.33995703" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Build" order="7" sideWeight="0.49731472" weight="0.3287827" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -2049,16 +2441,16 @@
     <MESSAGE value="selenium" />
     <MESSAGE value="selenium_facebook" />
     <MESSAGE value="selenium_CRUD" />
-    <option name="LAST_COMMIT_MESSAGE" value="selenium_CRUD" />
+    <MESSAGE value="selenium_CRUD_v2" />
+    <MESSAGE value="selenium_CRUD_v3" />
+    <option name="LAST_COMMIT_MESSAGE" value="selenium_CRUD_v3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="2" />
+    </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/build.gradle">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="338">
-          <caret line="13" selection-start-line="13" selection-end-line="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/settings.gradle">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="208">
@@ -2313,13 +2705,85 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/kodilla-testing2/src/main/java/com/kodilla/testing2/itAccess/exempt.java" />
+    <entry file="file://$PROJECT_DIR$/kodilla-sudoku/src/main/java/Prototype.java" />
+    <entry file="file://$PROJECT_DIR$/kodilla-sudoku/src/main/java/SudokuElement.java" />
+    <entry file="file://$PROJECT_DIR$/kodilla-sudoku/src/main/java/SudokuRow.java" />
+    <entry file="file://$PROJECT_DIR$/kodilla-sudoku/src/main/java/SudokuBoard.java" />
+    <entry file="file://$PROJECT_DIR$/kodilla-sudoku/src/main/java/SudokuSolver.java" />
+    <entry file="file://$PROJECT_DIR$/kodilla-sudoku/src/main/java/NewBoard.java" />
+    <entry file="file://$PROJECT_DIR$/kodilla-sudoku/src/main/java/SudokuBoardPrinter.java" />
+    <entry file="file://$PROJECT_DIR$/kodilla-sudoku/src/main/java/SudokuApp.java" />
     <entry file="file://$PROJECT_DIR$/kodilla-testing2/src/test/java/com/kodilla/testing2/crudapp/CrudAppTestSuite.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="461">
-          <caret line="116" column="19" lean-forward="true" selection-start-line="116" selection-start-column="19" selection-end-line="116" selection-end-column="19" />
+        <state relative-caret-position="494">
+          <caret line="122" column="16" selection-start-line="122" selection-start-column="16" selection-end-line="122" selection-end-column="16" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kodilla-sudoku-game/src/main/java/com/kodilla/sudoku/SudokuGame.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="52">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kodilla-sudoku-game/src/main/java/com/kodilla/sudoku/SudokuGameProcessor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-877">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kodilla-sudoku-game/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="182">
+          <caret line="7" column="18" selection-start-line="7" selection-start-column="18" selection-end-line="7" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kodilla-sudoku-game/src/main/java/ElementValidator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2158">
+          <caret line="87" column="17" lean-forward="true" selection-start-line="87" selection-start-column="17" selection-end-line="87" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kodilla-sudoku-game/src/main/java/SudokuBoard.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-313">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kodilla-sudoku-game/src/main/java/SudokuElement.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-781">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kodilla-sudoku-game/src/main/java/SudokuRunner.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="363">
+          <caret line="47" column="1" selection-start-line="47" selection-start-column="1" selection-end-line="47" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kodilla-sudoku-game/src/main/java/SudokuRow.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="104">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kodilla-sudoku-game/src/main/java/SudokuGame.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1768">
+          <caret line="70" column="9" lean-forward="true" selection-start-line="70" selection-start-column="9" selection-end-line="70" selection-end-column="9" />
         </state>
       </provider>
     </entry>

@@ -8,4 +8,6 @@ include 'kodilla-rps'
 include 'kodilla-good-patterns'
 include 'kodilla-exception'
 include 'kodilla-testing2'
+include 'kodilla-sudoku'
+include 'kodilla-sudoku-game'
 
